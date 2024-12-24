@@ -1,0 +1,6 @@
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\bin\Debug\GarageLibrary.dll
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\bin\Debug\GarageLibrary.pdb
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\obj\Debug\GarageLibrary.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\obj\Debug\GarageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\obj\Debug\GarageLibrary.dll
+C:\Users\323\Desktop\Бережной проект\GarageLibrary\obj\Debug\GarageLibrary.pdb

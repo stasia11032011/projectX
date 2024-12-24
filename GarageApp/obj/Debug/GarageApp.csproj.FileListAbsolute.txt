@@ -1,0 +1,11 @@
+C:\Users\323\Desktop\Бережной проект\GarageApp\bin\Debug\GarageApp.exe.config
+C:\Users\323\Desktop\Бережной проект\GarageApp\bin\Debug\GarageApp.exe
+C:\Users\323\Desktop\Бережной проект\GarageApp\bin\Debug\GarageApp.pdb
+C:\Users\323\Desktop\Бережной проект\GarageApp\bin\Debug\GarageLibrary.dll
+C:\Users\323\Desktop\Бережной проект\GarageApp\bin\Debug\GarageLibrary.pdb
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.csproj.CopyComplete
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.exe
+C:\Users\323\Desktop\Бережной проект\GarageApp\obj\Debug\GarageApp.pdb
